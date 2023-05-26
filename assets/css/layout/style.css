@@ -214,7 +214,7 @@
   }
   .header-layout-bottom-menu{
     width: 100%;
-    height: 100%;
+    height: 90%;
     background-color: #2051c6;
   }
   .header-layout-bottom-menu-nav{
@@ -226,6 +226,7 @@
   }
   .header-layout-bottom-menu-li{
     min-width: 5.6%;
+    cursor: pointer;
     margin: 10px;
     font-size: 2.5rem;
     color: #fff;
